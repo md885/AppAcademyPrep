@@ -28,7 +28,7 @@ answer = gets.chomp
 puts "WHADDAYA MEAN " + answer.upcase + "?!? YOU'RE FIRED!!"
 
 # table of contents
-lineWidth = 40
+lineWidth = 50
 puts "Chapter 1:".ljust lineWidth
 puts "Numbers".center
 puts "page 1".rjust lineWidth
